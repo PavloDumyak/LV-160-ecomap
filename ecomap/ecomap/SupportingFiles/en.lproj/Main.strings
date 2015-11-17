@@ -1,0 +1,273 @@
+
+/* Class = "UISegmentedControl"; 0qm-vi-3sa.segmentTitles[0] = "Popular"; ObjectID = "0qm-vi-3sa"; */
+"0qm-vi-3sa.segmentTitles[0]" = "Popular";
+
+/* Class = "UISegmentedControl"; 0qm-vi-3sa.segmentTitles[1] = "Important"; ObjectID = "0qm-vi-3sa"; */
+"0qm-vi-3sa.segmentTitles[1]" = "Important";
+
+/* Class = "UISegmentedControl"; 0qm-vi-3sa.segmentTitles[2] = "Discussed"; ObjectID = "0qm-vi-3sa"; */
+"0qm-vi-3sa.segmentTitles[2]" = "Discussed";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2KK-m1-zsD"; */
+"2KK-m1-zsD.text" = "Label";
+
+/* Class = "UILabel"; text = "Number of added problems in the last"; ObjectID = "2tp-Qg-V45"; */
+"2tp-Qg-V45.text" = "Number of added problems in the last";
+
+/* Class = "UITextField"; placeholder = "Old password"; ObjectID = "3om-3o-SAB"; */
+"3om-3o-SAB.placeholder" = "Old password";
+
+/* Class = "UILabel"; text = "☆☆☆☆☆"; ObjectID = "3u7-WT-ydj"; */
+"3u7-WT-ydj.text" = "☆☆☆☆☆";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "46V-NT-9Zo"; */
+"46V-NT-9Zo.placeholder" = "E-mail";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "5Bq-cG-tMx"; */
+"5Bq-cG-tMx.title" = "Details";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "6dw-35-OpN"; */
+"6dw-35-OpN.text" = "E-mail";
+
+/* Class = "UINavigationItem"; title = "Change password"; ObjectID = "7zG-fa-HBv"; */
+"7zG-fa-HBv.title" = "Change password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "A2l-zs-5nk"; */
+"A2l-zs-5nk.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "ASV-Hd-1eg"; */
+"ASV-Hd-1eg.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Роль"; ObjectID = "BHE-41-7pt"; */
+"BHE-41-7pt.text" = "Роль";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "BvX-4d-c5g"; */
+"BvX-4d-c5g.placeholder" = "E-mail";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "CNL-Cg-M9H"; */
+"CNL-Cg-M9H.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Пропозиції щодо вирішення"; ObjectID = "D2w-Mn-0kf"; */
+"D2w-Mn-0kf.text" = "Пропозиції щодо вирішення";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "DFW-mu-WEi"; */
+"DFW-mu-WEi.normalTitle" = "Choose";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EPu-Xe-b7y"; */
+"EPu-Xe-b7y.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "EQh-DG-JZg"; */
+"EQh-DG-JZg.placeholder" = "Surname";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "EV4-hX-TzL"; */
+"EV4-hX-TzL.text" = "Name";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "F9C-FB-M9k"; */
+"F9C-FB-M9k.title" = "Close";
+
+/* Class = "UILabel"; text = "0000"; ObjectID = "FwP-tJ-tqP"; */
+"FwP-tJ-tqP.text" = "0000";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "GDX-3P-67F"; */
+"GDX-3P-67F.normalTitle" = "+";
+
+/* Class = "UIButton"; normalTitle = "Не вирішена"; ObjectID = "ITc-hP-Py3"; */
+"ITc-hP-Py3.normalTitle" = "Не вирішена";
+
+/* Class = "UILabel"; text = "Ecomap"; ObjectID = "JSW-UX-MD0"; */
+"JSW-UX-MD0.text" = "Ecomap";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "Jnp-Rk-hQF"; */
+"Jnp-Rk-hQF.text" = "Surname";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KAk-Qp-v7a"; */
+"KAk-Qp-v7a.text" = "Label";
+
+/* Class = "UITextField"; text = "Test"; ObjectID = "KwZ-26-6bn"; */
+"KwZ-26-6bn.text" = "Test";
+
+/* Class = "UIBarButtonItem"; title = "Filter"; ObjectID = "LQ2-aK-GIv"; */
+"LQ2-aK-GIv.title" = "Filter";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "Lht-8s-JZ9"; */
+"Lht-8s-JZ9.text" = "Don't have an account?";
+
+/* Class = "UILabel"; text = "Surname"; ObjectID = "MoQ-Vg-nhO"; */
+"MoQ-Vg-nhO.text" = "Surname";
+
+/* Class = "UIButton"; normalTitle = "♡ 0"; ObjectID = "MoS-mP-85A"; */
+"MoS-mP-85A.normalTitle" = "♡ 0";
+
+/* Class = "UILabel"; text = "Resources"; ObjectID = "N5i-c1-1Oe"; */
+"N5i-c1-1Oe.text" = "Resources";
+
+/* Class = "UITextView"; text = "dfsdfdsfsdfdsf"; ObjectID = "NY0-kY-HEv"; */
+"NY0-kY-HEv.text" = "dfsdfdsfsdfdsf";
+
+/* Class = "UINavigationItem"; title = "Pie Chart Legend"; ObjectID = "OCq-BZ-ffn"; */
+"OCq-BZ-ffn.title" = "Pie Chart Legend";
+
+/* Class = "UITextField"; placeholder = "Confirm new password"; ObjectID = "P9X-3g-b4K"; */
+"P9X-3g-b4K.placeholder" = "Confirm new password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "QEY-MB-NV0"; */
+"QEY-MB-NV0.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Problem Title"; ObjectID = "QNR-CH-Ws8"; */
+"QNR-CH-Ws8.text" = "Problem Title";
+
+/* Class = "UILabel"; text = "Statistics for all time"; ObjectID = "QPW-Mx-piL"; */
+"QPW-Mx-piL.text" = "Statistics for all time";
+
+/* Class = "UINavigationItem"; title = "TOP 10 problems"; ObjectID = "QZs-aD-ccy"; */
+"QZs-aD-ccy.title" = "TOP 10 problems";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "QZx-px-LfZ"; */
+"QZx-px-LfZ.text" = "Profile";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "QeD-hx-MaA"; */
+"QeD-hx-MaA.text" = "Name";
+
+/* Class = "UIViewController"; title = "Редагування"; ObjectID = "Qjk-2v-YMQ"; */
+"Qjk-2v-YMQ.title" = "Редагування";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "R7H-LP-LE7"; */
+"R7H-LP-LE7.text" = "E-mail";
+
+/* Class = "UILabel"; text = "TOP problems"; ObjectID = "S6e-Sb-usr"; */
+"S6e-Sb-usr.text" = "TOP problems";
+
+/* Class = "UINavigationItem"; title = "Photo"; ObjectID = "SnU-YB-r7J"; */
+"SnU-YB-r7J.title" = "Photo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TbM-81-Don"; */
+"TbM-81-Don.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "V2x-G9-EXi"; */
+"V2x-G9-EXi.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "VX7-lQ-WSG"; */
+"VX7-lQ-WSG.normalTitle" = "-";
+
+/* Class = "UISegmentedControl"; Wq9-3K-2vu.segmentTitles[0] = "day"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[0]" = "day";
+
+/* Class = "UISegmentedControl"; Wq9-3K-2vu.segmentTitles[1] = "week"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[1]" = "week";
+
+/* Class = "UISegmentedControl"; Wq9-3K-2vu.segmentTitles[2] = "month"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[2]" = "month";
+
+/* Class = "UISegmentedControl"; Wq9-3K-2vu.segmentTitles[3] = "year"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[3]" = "year";
+
+/* Class = "UISegmentedControl"; Wq9-3K-2vu.segmentTitles[4] = "for all time"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[4]" = "for all time";
+
+/* Class = "UIButton"; normalTitle = "Видалити"; ObjectID = "XUR-QN-hG8"; */
+"XUR-QN-hG8.normalTitle" = "Видалити";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZAM-yJ-ZHv"; */
+"ZAM-yJ-ZHv.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Про проект"; ObjectID = "aBj-A3-CXY"; */
+"aBj-A3-CXY.title" = "About project";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "c1R-4K-TSm"; */
+"c1R-4K-TSm.text" = "Detail";
+
+/* Class = "UILabel"; text = "You can add maximum 5 photos"; ObjectID = "cBn-tG-ZhV"; */
+"cBn-tG-ZhV.text" = "You can add maximum 5 photos";
+
+/* Class = "UILabel"; text = "You are logged in as:"; ObjectID = "dZF-Ae-cTE"; */
+"dZF-Ae-cTE.text" = "You are logged in as:";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "egv-x1-Gqj"; */
+"egv-x1-Gqj.title" = "Profile";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "emG-sH-AjN"; */
+"emG-sH-AjN.placeholder" = "New password";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "eo4-6b-NZ9"; */
+"eo4-6b-NZ9.text" = "Login";
+
+/* Class = "UIViewController"; title = "LoginVC"; ObjectID = "f9f-d4-qVJ"; */
+"f9f-d4-qVJ.title" = "LoginVC";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "fA0-QO-mZw"; */
+"fA0-QO-mZw.title" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "Statistics"; ObjectID = "fps-eh-5lf"; */
+"fps-eh-5lf.title" = "Statistics";
+
+/* Class = "UINavigationItem"; title = "Resources"; ObjectID = "gUe-aJ-2bh"; */
+"gUe-aJ-2bh.title" = "Resources";
+
+/* Class = "UILabel"; text = "Role"; ObjectID = "glc-GU-xYI"; */
+"glc-GU-xYI.text" = "Role";
+
+/* Class = "UISegmentedControl"; hMs-WN-LhN.segmentTitles[0] = "Details"; ObjectID = "hMs-WN-LhN"; */
+"hMs-WN-LhN.segmentTitles[0]" = "Details";
+
+/* Class = "UISegmentedControl"; hMs-WN-LhN.segmentTitles[1] = "Activity"; ObjectID = "hMs-WN-LhN"; */
+"hMs-WN-LhN.segmentTitles[1]" = "Activity";
+
+/* Class = "UISegmentedControl"; hMs-WN-LhN.segmentTitles[2] = "Comments"; ObjectID = "hMs-WN-LhN"; */
+"hMs-WN-LhN.segmentTitles[2]" = "Comments";
+
+/* Class = "UILabel"; text = "Statistics"; ObjectID = "hgP-dj-liO"; */
+"hgP-dj-liO.text" = "Statistics";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "i76-cM-js3"; */
+"i76-cM-js3.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Редагувати"; ObjectID = "iU1-ty-xPa"; */
+"iU1-ty-xPa.normalTitle" = "Редагувати";
+
+/* Class = "UINavigationItem"; title = "Ecomap"; ObjectID = "k5h-KU-feq"; */
+"k5h-KU-feq.title" = "Ecomap";
+
+/* Class = "UILabel"; text = "Опис проблеми"; ObjectID = "kbS-9l-26H"; */
+"kbS-9l-26H.text" = "Опис проблеми";
+
+/* Class = "UITextField"; placeholder = "Confirm new password"; ObjectID = "lhz-Ed-eSh"; */
+"lhz-Ed-eSh.placeholder" = "Confirm new password";
+
+/* Class = "UITextView"; text = "123123"; ObjectID = "mv9-t4-j95"; */
+"mv9-t4-j95.text" = "123123";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "nah-bw-nRo"; */
+"nah-bw-nRo.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "niN-Lg-5u9"; */
+"niN-Lg-5u9.text" = "Label";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "oLe-bG-73X"; */
+"oLe-bG-73X.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "ofd-jx-HK2"; */
+"ofd-jx-HK2.title" = "Login";
+
+/* Class = "UILabel"; text = "Про проект"; ObjectID = "qbe-4a-5yO"; */
+"qbe-4a-5yO.text" = "About project";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "sI8-T2-iI6"; */
+"sI8-T2-iI6.text" = "Map";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "vNi-Az-ysf"; */
+"vNi-Az-ysf.normalTitle" = "Change password";
+
+/* Class = "UILabel"; text = "(user)"; ObjectID = "wD6-3p-QEK"; */
+"wD6-3p-QEK.text" = "(user)";
+
+/* Class = "UINavigationItem"; title = "Registration"; ObjectID = "wHQ-2Q-NZX"; */
+"wHQ-2Q-NZX.title" = "Registration";
+
+/* Class = "UILabel"; text = "not solved"; ObjectID = "xWe-iM-cMF"; */
+"xWe-iM-cMF.text" = "not solved";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "yDj-Zu-7jc"; */
+"yDj-Zu-7jc.normalTitle" = "Create";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "yP9-M4-5ae"; */
+"yP9-M4-5ae.title" = "Close";

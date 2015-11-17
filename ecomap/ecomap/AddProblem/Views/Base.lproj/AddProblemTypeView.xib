@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AddProblemTypeViewController">
+            <connections>
+                <outlet property="pickerView" destination="N0B-Cx-qeI" id="HFC-AA-YHM"/>
+                <outlet property="view" destination="iN0-l3-epB" id="NqV-Ru-Vyk"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="191"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nxG-3M-7pR">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="191"/>
+                    <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="hor-iX-1bC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="191"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Тип проблеми" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ALJ-Jy-k4D">
+                                <rect key="frame" x="104" y="8" width="114" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="N0B-Cx-qeI">
+                                <rect key="frame" x="0.0" y="29" width="320" height="162"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="162" id="5Ek-25-Z2J"/>
+                                    <constraint firstAttribute="width" constant="320" id="NCJ-R5-Dgd"/>
+                                </constraints>
+                                <connections>
+                                    <outlet property="dataSource" destination="-1" id="9YW-hA-8hA"/>
+                                    <outlet property="delegate" destination="-1" id="jhS-PG-jtw"/>
+                                </connections>
+                            </pickerView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="centerX" secondItem="ALJ-Jy-k4D" secondAttribute="centerX" constant="-0.5" id="Rzq-v3-q92"/>
+                            <constraint firstItem="N0B-Cx-qeI" firstAttribute="top" secondItem="ALJ-Jy-k4D" secondAttribute="bottom" id="faz-Hr-MBz"/>
+                            <constraint firstItem="ALJ-Jy-k4D" firstAttribute="top" secondItem="hor-iX-1bC" secondAttribute="top" constant="8" id="ssf-DE-W4J"/>
+                            <constraint firstAttribute="centerX" secondItem="N0B-Cx-qeI" secondAttribute="centerX" id="vX9-Io-cJn"/>
+                        </constraints>
+                    </view>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="191" id="gYi-Me-NXN"/>
+                    </constraints>
+                    <blurEffect style="light"/>
+                </visualEffectView>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="nxG-3M-7pR" secondAttribute="trailing" id="1ub-6t-CRa"/>
+                <constraint firstItem="nxG-3M-7pR" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="AeO-TW-rgF"/>
+                <constraint firstItem="nxG-3M-7pR" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="DpJ-Us-ccq"/>
+                <constraint firstAttribute="bottom" secondItem="nxG-3M-7pR" secondAttribute="bottom" id="EtA-uv-J2K"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="377" y="127.5"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

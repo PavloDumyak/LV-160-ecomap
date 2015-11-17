@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AddProblemSolutionViewController">
+            <connections>
+                <outlet property="textView" destination="RoY-mC-b2O" id="J0I-uD-obk"/>
+                <outlet property="view" destination="iN0-l3-epB" id="mXu-R0-4PV"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="170"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8yx-uu-0cr">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="170"/>
+                    <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="x2X-01-Eh2">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="170"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RoY-mC-b2O">
+                                <rect key="frame" x="8" y="37" width="304" height="128"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="128" id="qvv-jF-cTk"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Пропозицiї щодо вирiшення" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ae6-Nx-izn">
+                                <rect key="frame" x="48" y="8" width="226" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="Ae6-Nx-izn" firstAttribute="top" secondItem="x2X-01-Eh2" secondAttribute="top" constant="8" id="FGW-mU-NrG"/>
+                            <constraint firstAttribute="trailing" secondItem="RoY-mC-b2O" secondAttribute="trailing" constant="8" id="OHu-E9-07n"/>
+                            <constraint firstItem="RoY-mC-b2O" firstAttribute="leading" secondItem="x2X-01-Eh2" secondAttribute="leading" constant="8" id="QTz-cn-Vx4"/>
+                            <constraint firstItem="RoY-mC-b2O" firstAttribute="top" secondItem="Ae6-Nx-izn" secondAttribute="bottom" constant="8" id="TJy-Cr-u8a"/>
+                            <constraint firstAttribute="centerX" secondItem="Ae6-Nx-izn" secondAttribute="centerX" constant="-1" id="VKA-Eg-08s"/>
+                        </constraints>
+                    </view>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="170" id="yV2-Pd-Vco"/>
+                    </constraints>
+                    <blurEffect style="light"/>
+                </visualEffectView>
+            </subviews>
+            <constraints>
+                <constraint firstItem="8yx-uu-0cr" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="BNr-6D-xPb"/>
+                <constraint firstAttribute="bottom" secondItem="8yx-uu-0cr" secondAttribute="bottom" id="H4R-Iz-HHJ"/>
+                <constraint firstItem="8yx-uu-0cr" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="J0A-9o-LkF"/>
+                <constraint firstAttribute="trailing" secondItem="8yx-uu-0cr" secondAttribute="trailing" id="cWz-lt-WoF"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="242" y="59"/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

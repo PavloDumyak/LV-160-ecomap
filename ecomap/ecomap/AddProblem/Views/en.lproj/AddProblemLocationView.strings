@@ -1,0 +1,6 @@
+
+/* Class = "IBUILabel"; text = "Вiдмiтьте мiсцезнаходження проблеми"; ObjectID = "5D9-B9-74H"; */
+"5D9-B9-74H.text" = "Locate problem on map";
+
+/* Class = "IBUIButton"; normalTitle = "Знайти мене"; ObjectID = "Nqj-rt-QlY"; */
+"Nqj-rt-QlY.normalTitle" = "Find my current location";

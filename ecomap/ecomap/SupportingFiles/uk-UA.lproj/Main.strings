@@ -1,0 +1,219 @@
+
+/* Class = "IBUISegmentedControl"; 0qm-vi-3sa.segmentTitles[0] = "Популярні"; ObjectID = "0qm-vi-3sa"; */
+"0qm-vi-3sa.segmentTitles[0]" = "Популярні";
+
+/* Class = "IBUISegmentedControl"; 0qm-vi-3sa.segmentTitles[1] = "Важливі"; ObjectID = "0qm-vi-3sa"; */
+"0qm-vi-3sa.segmentTitles[1]" = "Важливі";
+
+/* Class = "IBUISegmentedControl"; 0qm-vi-3sa.segmentTitles[2] = "Обговорювані"; ObjectID = "0qm-vi-3sa"; */
+"0qm-vi-3sa.segmentTitles[2]" = "Обговорювані";
+
+/* Class = "IBUILabel"; text = "Кількість доданих проблем за останній"; ObjectID = "2tp-Qg-V45"; */
+"2tp-Qg-V45.text" = "Кількість доданих проблем за останній";
+
+/* Class = "IBUITextField"; placeholder = "Старий пароль"; ObjectID = "3om-3o-SAB"; */
+"3om-3o-SAB.placeholder" = "Старий пароль";
+
+/* Class = "IBUILabel"; text = "☆☆☆☆☆"; ObjectID = "3u7-WT-ydj"; */
+"3u7-WT-ydj.text" = "☆☆☆☆☆";
+
+/* Class = "IBUITextField"; placeholder = "Email-адреса"; ObjectID = "46V-NT-9Zo"; */
+"46V-NT-9Zo.placeholder" = "Email-адреса";
+
+/* Class = "IBUINavigationItem"; title = "Деталі"; ObjectID = "5Bq-cG-tMx"; */
+"5Bq-cG-tMx.title" = "Деталі";
+
+/* Class = "IBUILabel"; text = "E-mail"; ObjectID = "6dw-35-OpN"; */
+"6dw-35-OpN.text" = "E-mail";
+
+/* Class = "IBUINavigationItem"; title = "Зміна паролю"; ObjectID = "7zG-fa-HBv"; */
+"7zG-fa-HBv.title" = "Зміна паролю";
+
+/* Class = "IBUITextField"; placeholder = "Ім'я"; ObjectID = "ASV-Hd-1eg"; */
+"ASV-Hd-1eg.placeholder" = "Ім'я";
+
+/* Class = "IBUILabel"; text = "Роль"; ObjectID = "BHE-41-7pt"; */
+"BHE-41-7pt.text" = "Роль";
+
+/* Class = "IBUITextField"; placeholder = "Email-адреса"; ObjectID = "BvX-4d-c5g"; */
+"BvX-4d-c5g.placeholder" = "Email-адреса";
+
+/* Class = "IBUITextField"; placeholder = "Пароль"; ObjectID = "CNL-Cg-M9H"; */
+"CNL-Cg-M9H.placeholder" = "Пароль";
+
+/* Class = "IBUIButton"; normalTitle = "Обрати"; ObjectID = "DFW-mu-WEi"; */
+"DFW-mu-WEi.normalTitle" = "Обрати";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "EPu-Xe-b7y"; */
+"EPu-Xe-b7y.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "Прізвище"; ObjectID = "EQh-DG-JZg"; */
+"EQh-DG-JZg.placeholder" = "Прізвище";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "EV4-hX-TzL"; */
+"EV4-hX-TzL.text" = "Name";
+
+/* Class = "IBUIBarButtonItem"; title = "Close"; ObjectID = "F9C-FB-M9k"; */
+"F9C-FB-M9k.title" = "Close";
+
+/* Class = "IBUILabel"; text = "0000"; ObjectID = "FwP-tJ-tqP"; */
+"FwP-tJ-tqP.text" = "0000";
+
+/* Class = "IBUILabel"; text = "Ecomap"; ObjectID = "JSW-UX-MD0"; */
+"JSW-UX-MD0.text" = "Ecomap";
+
+/* Class = "IBUILabel"; text = "Surname"; ObjectID = "Jnp-Rk-hQF"; */
+"Jnp-Rk-hQF.text" = "Surname";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "KAk-Qp-v7a"; */
+"KAk-Qp-v7a.text" = "Label";
+
+/* Class = "IBUIBarButtonItem"; title = "Apply"; ObjectID = "LQ2-aK-GIv"; */
+"LQ2-aK-GIv.title" = "Фільтрувати";
+
+/* Class = "IBUILabel"; text = "Немаєте облікового запису?"; ObjectID = "Lht-8s-JZ9"; */
+"Lht-8s-JZ9.text" = "Немаєте облікового запису?";
+
+/* Class = "IBUILabel"; text = "Прізвище"; ObjectID = "MoQ-Vg-nhO"; */
+"MoQ-Vg-nhO.text" = "Прізвище";
+
+/* Class = "IBUIButton"; normalTitle = "♡ 0"; ObjectID = "MoS-mP-85A"; */
+"MoS-mP-85A.normalTitle" = "♡ 0";
+
+/* Class = "IBUILabel"; text = "Ресурси"; ObjectID = "N5i-c1-1Oe"; */
+"N5i-c1-1Oe.text" = "Ресурси";
+
+/* Class = "IBUITextField"; placeholder = "Підтвердіть новий пароль"; ObjectID = "P9X-3g-b4K"; */
+"P9X-3g-b4K.placeholder" = "Підтвердіть новий пароль";
+
+/* Class = "IBUITextField"; placeholder = "Пароль"; ObjectID = "QEY-MB-NV0"; */
+"QEY-MB-NV0.placeholder" = "Пароль";
+
+/* Class = "IBUILabel"; text = "Problem Title"; ObjectID = "QNR-CH-Ws8"; */
+"QNR-CH-Ws8.text" = "Problem Title";
+
+/* Class = "IBUILabel"; text = "Статистика за весь час"; ObjectID = "QPW-Mx-piL"; */
+"QPW-Mx-piL.text" = "Статистика за весь час";
+
+/* Class = "IBUINavigationItem"; title = "ТОП 10 проблем"; ObjectID = "QZs-aD-ccy"; */
+"QZs-aD-ccy.title" = "ТОП 10 проблем";
+
+/* Class = "IBUILabel"; text = "Профіль"; ObjectID = "QZx-px-LfZ"; */
+"QZx-px-LfZ.text" = "Профіль";
+
+/* Class = "IBUILabel"; text = "Ім'я"; ObjectID = "QeD-hx-MaA"; */
+"QeD-hx-MaA.text" = "Ім'я";
+
+/* Class = "IBUILabel"; text = "Email-адреса"; ObjectID = "R7H-LP-LE7"; */
+"R7H-LP-LE7.text" = "Email-адреса";
+
+/* Class = "IBUILabel"; text = "Топи проблем"; ObjectID = "S6e-Sb-usr"; */
+"S6e-Sb-usr.text" = "Топи проблем";
+
+/* Class = "IBUINavigationItem"; title = "Фото"; ObjectID = "SnU-YB-r7J"; */
+"SnU-YB-r7J.title" = "Фото";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "TbM-81-Don"; */
+"TbM-81-Don.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "V2x-G9-EXi"; */
+"V2x-G9-EXi.text" = "Title";
+
+/* Class = "IBUISegmentedControl"; Wq9-3K-2vu.segmentTitles[0] = "день"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[0]" = "день";
+
+/* Class = "IBUISegmentedControl"; Wq9-3K-2vu.segmentTitles[1] = "тиждень"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[1]" = "тиждень";
+
+/* Class = "IBUISegmentedControl"; Wq9-3K-2vu.segmentTitles[2] = "місяць"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[2]" = "місяць";
+
+/* Class = "IBUISegmentedControl"; Wq9-3K-2vu.segmentTitles[3] = "рік"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[3]" = "рік";
+
+/* Class = "IBUISegmentedControl"; Wq9-3K-2vu.segmentTitles[4] = "за весь час"; ObjectID = "Wq9-3K-2vu"; */
+"Wq9-3K-2vu.segmentTitles[4]" = "за весь час";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ZAM-yJ-ZHv"; */
+"ZAM-yJ-ZHv.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "c1R-4K-TSm"; */
+"c1R-4K-TSm.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "Ви можете додати не більше 5-ти фото"; ObjectID = "cBn-tG-ZhV"; */
+"cBn-tG-ZhV.text" = "Ви можете додати не більше 5-ти фото";
+
+/* Class = "IBUILabel"; text = "Ви увійши як:"; ObjectID = "dZF-Ae-cTE"; */
+"dZF-Ae-cTE.text" = "Ви увійши як:";
+
+/* Class = "IBUINavigationItem"; title = "Профіль"; ObjectID = "egv-x1-Gqj"; */
+"egv-x1-Gqj.title" = "Профіль";
+
+/* Class = "IBUITextField"; placeholder = "Новий пароль"; ObjectID = "emG-sH-AjN"; */
+"emG-sH-AjN.placeholder" = "Новий пароль";
+
+/* Class = "IBUILabel"; text = "Вхiд"; ObjectID = "eo4-6b-NZ9"; */
+"eo4-6b-NZ9.text" = "Вхiд";
+
+/* Class = "IBUIViewController"; title = "LoginVC"; ObjectID = "f9f-d4-qVJ"; */
+"f9f-d4-qVJ.title" = "LoginVC";
+
+/* Class = "IBUIBarButtonItem"; title = "Сховати"; ObjectID = "fA0-QO-mZw"; */
+"fA0-QO-mZw.title" = "Відміна";
+
+/* Class = "IBUINavigationItem"; title = "Статистика"; ObjectID = "fps-eh-5lf"; */
+"fps-eh-5lf.title" = "Статистика";
+
+/* Class = "IBUINavigationItem"; title = "Ресурси"; ObjectID = "gUe-aJ-2bh"; */
+"gUe-aJ-2bh.title" = "Ресурси";
+
+/* Class = "IBUILabel"; text = "Role"; ObjectID = "glc-GU-xYI"; */
+"glc-GU-xYI.text" = "Role";
+
+/* Class = "IBUISegmentedControl"; hMs-WN-LhN.segmentTitles[0] = "Детально"; ObjectID = "hMs-WN-LhN"; */
+"hMs-WN-LhN.segmentTitles[0]" = "Детально";
+
+/* Class = "IBUISegmentedControl"; hMs-WN-LhN.segmentTitles[1] = "Активність"; ObjectID = "hMs-WN-LhN"; */
+"hMs-WN-LhN.segmentTitles[1]" = "Активність";
+
+/* Class = "IBUISegmentedControl"; hMs-WN-LhN.segmentTitles[2] = "Коментарі"; ObjectID = "hMs-WN-LhN"; */
+"hMs-WN-LhN.segmentTitles[2]" = "Коментарі";
+
+/* Class = "IBUILabel"; text = "Статистика"; ObjectID = "hgP-dj-liO"; */
+"hgP-dj-liO.text" = "Статистика";
+
+/* Class = "IBUINavigationItem"; title = "Ecomap"; ObjectID = "k5h-KU-feq"; */
+"k5h-KU-feq.title" = "Ecomap";
+
+/* Class = "IBUITextField"; placeholder = "Підтвердіть пароль"; ObjectID = "lhz-Ed-eSh"; */
+"lhz-Ed-eSh.placeholder" = "Підтвердіть пароль";
+
+/* Class = "IBUITextView"; text = "123123"; ObjectID = "mv9-t4-j95"; */
+"mv9-t4-j95.text" = "123123";
+
+/* Class = "IBUIButton"; normalTitle = "Відмінити"; ObjectID = "nah-bw-nRo"; */
+"nah-bw-nRo.normalTitle" = "Відмінити";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "niN-Lg-5u9"; */
+"niN-Lg-5u9.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Вхід"; ObjectID = "ofd-jx-HK2"; */
+"ofd-jx-HK2.title" = "Вхід";
+
+/* Class = "IBUILabel"; text = "Карта"; ObjectID = "sI8-T2-iI6"; */
+"sI8-T2-iI6.text" = "Карта";
+
+/* Class = "IBUIButton"; normalTitle = "Змінити пароль"; ObjectID = "vNi-Az-ysf"; */
+"vNi-Az-ysf.normalTitle" = "Змінити пароль";
+
+/* Class = "IBUILabel"; text = "(user)"; ObjectID = "wD6-3p-QEK"; */
+"wD6-3p-QEK.text" = "(user)";
+
+/* Class = "IBUINavigationItem"; title = "Реєстрація"; ObjectID = "wHQ-2Q-NZX"; */
+"wHQ-2Q-NZX.title" = "Реєстрація";
+
+/* Class = "IBUILabel"; text = "не вирішена"; ObjectID = "xWe-iM-cMF"; */
+"xWe-iM-cMF.text" = "не вирішена";
+
+/* Class = "IBUIButton"; normalTitle = "Створити"; ObjectID = "yDj-Zu-7jc"; */
+"yDj-Zu-7jc.normalTitle" = "Створити";
